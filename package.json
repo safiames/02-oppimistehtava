@@ -2,6 +2,7 @@
   "name": "02-part",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://safiames.github.io/02-oppimistehtava",
   "type": "module",
   "scripts": {
     "dev": "vite",
